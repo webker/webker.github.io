@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xufeng.io/about/index.html</loc>
+    <loc>https://webker.github.io/about/index.html</loc>
     
     <lastmod>2021-03-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/2021/03/03/start/</loc>
+    <loc>https://webker.github.io/2021/03/03/start/</loc>
     
     <lastmod>2021-03-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/2021/03/03/Hello-World/</loc>
+    <loc>https://webker.github.io/2021/03/03/Hello-World/</loc>
     
     <lastmod>2021-03-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/categories/index.html</loc>
+    <loc>https://webker.github.io/categories/index.html</loc>
     
     <lastmod>2021-02-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/404.html</loc>
+    <loc>https://webker.github.io/404.html</loc>
     
     <lastmod>2021-02-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/links/index.html</loc>
+    <loc>https://webker.github.io/links/index.html</loc>
     
     <lastmod>2021-02-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/tags/index.html</loc>
+    <loc>https://webker.github.io/tags/index.html</loc>
     
     <lastmod>2021-02-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/books/index.html</loc>
+    <loc>https://webker.github.io/books/index.html</loc>
     
     <lastmod>2021-02-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xufeng.io/repository/index.html</loc>
+    <loc>https://webker.github.io/repository/index.html</loc>
     
     <lastmod>2021-02-19</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://xufeng.io/</loc>
+    <loc>https://webker.github.io/</loc>
     <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,14 +74,14 @@
 
   
   <url>
-    <loc>http://xufeng.io/tags/Hexo/</loc>
+    <loc>https://webker.github.io/tags/Hexo/</loc>
     <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://xufeng.io/tags/Hack/</loc>
+    <loc>https://webker.github.io/tags/Hack/</loc>
     <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -90,14 +90,14 @@
 
   
   <url>
-    <loc>http://xufeng.io/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
+    <loc>https://webker.github.io/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://xufeng.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/</loc>
+    <loc>https://webker.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
